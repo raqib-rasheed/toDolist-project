@@ -1,0 +1,10 @@
+.edit-btn,.delete-btn{
+cursor: pointer;
+}
+.edit-btn:hover,.delete-btn:hover{
+color: darkgray;
+}
+
+.hide{
+  display: none;
+}
